@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on building an interactive website.
 - 📫 How to reach me https://www.linkedin.com/in/raud-kelly/
 - 🢃 My projects
-- https://github.com/raudakelly/Personal-Website
-- 
+- My personal website: https://github.com/raudakelly/Personal-Website
+- A D&D passion project https://github.com/raudakelly/DnDProject
 
 <!---
 raudakelly/raudakelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
