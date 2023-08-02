@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raudakelly
+- 👋 Hi, I’m Raud
 - 👀 I’m interested in learning web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on building an interactive website.
